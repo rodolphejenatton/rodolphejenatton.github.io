@@ -1,0 +1,89 @@
+=Rodolphe Jenatton
+
+~~~
+*Machine learning scientist at Amazon*. 
+
+*Contact:* +contact AT rodolphejenatton DOT com+
+
+*[http://scholar.google.com/citations?user=QIR6rygAAAAJ&hl=en \[Google Scholar\]][http://fr.linkedin.com/pub/rodolphe-jenatton/4/128/520 \[LinkedIn\]]* 
+~~~
+
+~~~
+{Short bio:}
+In 2011, I finished my Ph.D which I conducted within the [http://www.di.ens.fr/sierra/ Sierra Team] of the [http://www.di.ens.fr/  Département d'Informatique of École Normale Supérieure].
+I had the chance to be co-supervised by [http://www.di.ens.fr/~fbach/ Francis Bach] and [http://certis.enpc.fr/~audibert/ Jean-Yves Audibert]. 
+I was then a postdoctoral researcher with [http://www.di.ens.fr/~aspremon/ Alexandre d'Aspremont] at [http://www.cmap.polytechnique.fr/ Ecole Polytechnique]. 
+From January 2013 until May 2014, I worked for [http://labs.criteo.com/ Criteo] where I was in charge of improving the statistical and optimization aspects of the ad prediction engine. 
+I am now a machine learning scientist at Amazon, Berlin.
+~~~
+
+~~~
+{Research interests:}
+My research interests revolve around machine learning, statistics, (convex) optimization, (structured) sparsity and their applications to image and text processing. I am also interested in dictionary learning and various unsupervised models based on latent factor representations.
+~~~
+
+
+~~~
+{Publications:}
+
+*Journal:*
+
+- (2012) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, E. Eger, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity. /SIAM Journal on Imaging Sciences, 5(3):835-856/, 2012. [http://hal.inria.fr/inria-00589785/ \[pdf\]]
+
+- (2011) R. Jenatton\*, J. Mairal\*, G. Obozinski, F. Bach (\*Contributed equally). Proximal Methods for Hierarchical Sparse Coding. /Journal of Machine Learning Research, 12(Jul):2297-2334/. [http://www.jmlr.org/papers/volume12/jenatton11a/jenatton11a.pdf \[pdf\]]
+
+- (2011) J. Mairal\*, R. Jenatton\*, G. Obozinski, F. Bach (\*Contributed equally). Convex and Network Flow Optimization for Structured Sparsity. /Journal of Machine Learning Research, 12(Sep):2681-2720/. [http://www.jmlr.org/papers/volume12/mairal11a/mairal11a.pdf \[pdf\]]
+
+- (2011) R. Jenatton, J.-Y. Audibert and F. Bach. Structured Variable Selection with Sparsity-Inducing Norms. /Journal of Machine Learning Research, 12(Oct):2777-2824/. [http://www.jmlr.org/papers/volume12/jenatton11b/jenatton11b.pdf \[pdf\] ] [./software/StructuredLasso_Matlab_Package_version_1_0_RodolpheJenatton.tar \[code\]]
+
+*Conference:*
+
+- (2013) F. Fogel, R. Jenatton, F. Bach, A. d'Aspremont. Convex Relaxations for Permutation Problems. /Advances in Neural Information Processing Systems (NIPS)/. [http://papers.nips.cc/paper/4986-convex-relaxations-for-permutation-problems.pdf \[pdf\]] [http://arxiv.org/pdf/1306.4805v2.pdf \[Longer version in preprint\]]
+
+- (2012) R. Jenatton\*, N. Le Roux\*, A. Bordes, G. Obozinski (\*Contributed equally). A latent factor model for highly multi-relational data. /Advances in Neural Information Processing Systems (NIPS)/. [http://papers.nips.cc/paper/4744-a-latent-factor-model-for-highly-multi-relational-data.pdf \[pdf\]] [https://www.hds.utc.fr/everest/doku.php?id=en:lfmnips12 \[code\]]
+
+- (2010) J. Mairal\*, R. Jenatton\*, G. Obozinski, F. Bach (\*Contributed equally). Network Flow Algorithms for Structured Sparsity. /Advances in Neural Information Processing Systems (NIPS)/. [http://papers.nips.cc/paper/3965-network-flow-algorithms-for-structured-sparsity.pdf \[pdf\]] [http://spams-devel.gforge.inria.fr/ \[code\]]
+
+- (2010) R. Jenatton\*, J. Mairal\*, G. Obozinski, F. Bach (\*Contributed equally). Proximal Methods for Sparse Hierarchical Dictionary Learning. /International Conference on Machine Learning (ICML)/. [http://www.di.ens.fr/~fbach/icml2010a.pdf \[pdf\]][http://spams-devel.gforge.inria.fr/ \[code\]]
+
+- (2010) R. Jenatton, G. Obozinski, F. Bach. Structured Sparse Principal Component Analysis. /International Conference on Artificial Intelligence and Statistics (AISTATS)/. [http://jmlr.org/proceedings/papers/v9/jenatton10a/jenatton10a.pdf \[pdf\]] [./software/SparseStructuredPCA_MatlabToolbox_V1.0_rjenatton.tar \[code\]]
+
+*Book chapter:*
+
+- (2012) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Structured sparsity through convex optimization. /Statistical Science Volume 27, Number 4 (2012), 450-468/. [http://projecteuclid.org/euclid.ss/1356098550 \[Statistical Science\]] [http://arxiv.org/pdf/1109.2397v2.pdf \[pdf\]]
+
+- (2012) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Optimization with Sparsity-Inducing Penalties. /Foundations and Trends in Machine Learning, 4(1):1-106/, 2012. [http://dx.doi.org/10.1561/2200000015 \[FOT\]][http://arxiv.org/pdf/1108.0775.pdf \[pdf\]]
+
+- (2011) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Convex Optimization with Sparsity-Inducing Norms. In /S. Sra, S. Nowozin, S. J. Wright., editors, Optimization for Machine Learning, MIT Press/, 2011. [http://www.di.ens.fr/~fbach/opt_book.pdf \[pdf\]]
+
+*Preprints and technical reports:*
+
+- (2014) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /Technical report, HAL 01025503/, 2014. [http://hal.archives-ouvertes.fr/docs/01/02/55/03/PDF/sparse_and_spurious_hal.pdf \[pdf\]]
+
+- (2014) M Seibert, M Kleinsteuber, R Gribonval, R Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
+
+- (2013) R Gribonval, R Jenatton, F Bach, M Kleinsteuber and M Seibert. Sample complexity of dictionary learning and other matrix factorizations. /Technical report, arXiv:1312.3790, 2014. [http://arxiv.org/pdf/1312.3790v1.pdf \[pdf\]]
+
+- (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
+
+*Workshop:*
+
+- (2011) R. Jenatton, R. Gribonval, and F. Bach. Local Analysis of Sparse Coding in the Presence of Noise. /NIPS Workshop on Sparse Representation and Low-rank Approximation/. [\[video\]]
+
+- (2011) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity./International Workshop on Pattern Recognition in Neuroimaging (PRNI)/.
+
+- (2010) G. Varoquaux, R. Jenatton, A. Gramfort, G. Obozinski, B. Thirion and F. Bach. Sparse Structured Dictionary Learning for Brain Resting-State Activity Modeling. /NIPS Workshop on Practical Applications of Sparse Modeling: Open Issues and New Directions/.
+
+- (2009) R. Jenatton, J.-Y. Audibert and F. Bach. Active Set Algorithm for Structured Sparsity-Inducing Norms. /OPT 2009: 2nd NIPS Workshop on Optimization for Machine Learning/. [\[pdf\]] [\[slide\]] [[\video\]]
+
+*Thesis:*
+
+- (2011) Structured Sparsity-Inducing Norms: Statistical and Algorithmic Properties with Applications to Neuroimaging. Ph.D thesis. /Ecole Normale Supérieure de Cachan. 2011/. [http://tel.archives-ouvertes.fr/tel-00673326 \[pdf\]] [./other/phd_talk.pdf \[slides of the defense\]]
+
+: {/Awards:/}
+Winner of the best 2012 Applied Mathematics PhD thesis prize, Fondation Hadamard 2012 [http://www.fondation-hadamard.fr/en/page/668 \[more details.\]] 
+: {} Runner-up for the best 2012 Machine Learning PhD thesis, Association Française pour l’Intelligence Artiﬁcielle 2012 [http://www.afia.asso.fr/tiki-index.php?page=Prix+de+Th%C3%A8se+en+Intelligence+Artificielle \[more details.\]]
+~~~
+
+
+
