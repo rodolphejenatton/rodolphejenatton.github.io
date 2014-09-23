@@ -56,33 +56,35 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 - (2011) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Convex Optimization with Sparsity-Inducing Norms. In /S. Sra, S. Nowozin, S. J. Wright., editors, Optimization for Machine Learning, MIT Press/, 2011. [http://www.di.ens.fr/~fbach/opt_book.pdf \[pdf\]]
 
-*Preprints and technical reports:*
+*Technical reports:*
 
 - (2014) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /Technical report, HAL 01025503/, 2014. [http://hal.archives-ouvertes.fr/docs/01/02/55/03/PDF/sparse_and_spurious_hal.pdf \[pdf\]]
 
-- (2014) M Seibert, M Kleinsteuber, R Gribonval, R Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
+- (2014) M. Seibert, M. Kleinsteuber, R. Gribonval, R. Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
 
-- (2013) R Gribonval, R Jenatton, F Bach, M Kleinsteuber and M Seibert. Sample complexity of dictionary learning and other matrix factorizations. /Technical report, arXiv:1312.3790, 2014. [http://arxiv.org/pdf/1312.3790v1.pdf \[pdf\]]
+- (2013) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /Technical report, arXiv:1312.3790, 2014. [http://arxiv.org/pdf/1312.3790v1.pdf \[pdf\]]
 
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
 *Workshop:*
 
-- (2011) R. Jenatton, R. Gribonval, and F. Bach. Local Analysis of Sparse Coding in the Presence of Noise. /NIPS Workshop on Sparse Representation and Low-rank Approximation/. [\[video\]]
+- (2011) R. Jenatton, R. Gribonval, and F. Bach. Local Analysis of Sparse Coding in the Presence of Noise. /NIPS Workshop on Sparse Representation and Low-rank Approximation/. [http://www.youtube.com/watch?v=lxQBswrFjtA \[video\]]
 
-- (2011) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity./International Workshop on Pattern Recognition in Neuroimaging (PRNI)/.
+- (2011) J. Mairal, R. Jenatton, G. Obozinski and F. Bach. Learning Hierarchical and Topographic Dictionaries with Structured Sparsity. In /proceeding of the SPIE conference on wavelets and sparsity XIV/, 2011. [http://lear.inrialpes.fr/people/mairal/resources/pdf/wavelets.pdf \[pdf\]]
+
+- (2011) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity./International Workshop on Pattern Recognition in Neuroimaging (PRNI)/. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5961256 \[ieee pdf]\]
 
 - (2010) G. Varoquaux, R. Jenatton, A. Gramfort, G. Obozinski, B. Thirion and F. Bach. Sparse Structured Dictionary Learning for Brain Resting-State Activity Modeling. /NIPS Workshop on Practical Applications of Sparse Modeling: Open Issues and New Directions/.
 
-- (2009) R. Jenatton, J.-Y. Audibert and F. Bach. Active Set Algorithm for Structured Sparsity-Inducing Norms. /OPT 2009: 2nd NIPS Workshop on Optimization for Machine Learning/. [\[pdf\]] [\[slide\]] [[\video\]]
+- (2009) R. Jenatton, J.-Y. Audibert and F. Bach. Active Set Algorithm for Structured Sparsity-Inducing Norms. /OPT 2009: 2nd NIPS Workshop on Optimization for Machine Learning/. [./other/OPT2009-jenatton.pdf \[pdf\]] [./other/OPT2009-jenatton_slides.pdf \[slide\]] [http://videolectures.net/nipsworkshops09_jenatton_asa/ \[video\]]
 
 *Thesis:*
 
 - (2011) Structured Sparsity-Inducing Norms: Statistical and Algorithmic Properties with Applications to Neuroimaging. Ph.D thesis. /Ecole Normale Supérieure de Cachan. 2011/. [http://tel.archives-ouvertes.fr/tel-00673326 \[pdf\]] [./other/phd_talk.pdf \[slides of the defense\]]
 
 : {/Awards:/}
-Winner of the best 2012 Applied Mathematics PhD thesis prize, Fondation Hadamard 2012 [http://www.fondation-hadamard.fr/en/page/668 \[more details.\]] 
-: {} Runner-up for the best 2012 Machine Learning PhD thesis, Association Française pour l’Intelligence Artiﬁcielle 2012 [http://www.afia.asso.fr/tiki-index.php?page=Prix+de+Th%C3%A8se+en+Intelligence+Artificielle \[more details.\]]
+Winner of the best 2012 Applied Mathematics PhD thesis prize, Fondation Hadamard 2012 [http://www.fondation-hadamard.fr/en/page/668 \[more details\]] 
+: {} Runner-up for the best 2012 Machine Learning PhD thesis, Association Française pour l’Intelligence Artiﬁcielle 2012 [http://www.afia.asso.fr/tiki-index.php?page=Prix+de+Th%C3%A8se+en+Intelligence+Artificielle \[more details\]]
 ~~~
 
 
