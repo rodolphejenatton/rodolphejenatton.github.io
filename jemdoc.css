@@ -250,7 +250,7 @@ div.blockcontent {
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: #F0F0F0;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
