@@ -1,15 +1,16 @@
-=Rodolphe Jenatton
-
 ~~~
 {}{img_left}{pic_webpage.JPG}{}{250}{250}{}
+= Rodolphe Jenatton
+
+Machine learning scientist at Amazon. 
 ~~~
 
 ~~~
-*Machine learning scientist at Amazon*. 
-
 *Contact:* +contact AT rodolphejenatton DOT com+
 
-*[http://scholar.google.com/citations?user=QIR6rygAAAAJ&hl=en \[Google Scholar\]][http://fr.linkedin.com/pub/rodolphe-jenatton/4/128/520 \[LinkedIn\]]* 
+*[http://scholar.google.com/citations?user=QIR6rygAAAAJ&hl=en \[Google Scholar\]]
+[http://www.informatik.uni-trier.de/~ley/pers/hd/j/Jenatton:Rodolphe.html \[dblp\]]
+[http://fr.linkedin.com/pub/rodolphe-jenatton/4/128/520 \[LinkedIn\]]* 
 ~~~
 
 ~~~
@@ -66,7 +67,7 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 - (2014) M. Seibert, M. Kleinsteuber, R. Gribonval, R. Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
 
-- (2013) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /Technical report, arXiv:1312.3790, 2014. [http://arxiv.org/pdf/1312.3790v1.pdf \[pdf\]]
+- (2013) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /Technical report, arXiv:1312.3790/, 2014. [http://arxiv.org/pdf/1312.3790v1.pdf \[pdf\]]
 
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
