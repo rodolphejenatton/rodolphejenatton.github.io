@@ -43,7 +43,9 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 *Conference:*
 
-- (2013) F. Fogel, R. Jenatton, F. Bach, A. d'Aspremont. Convex Relaxations for Permutation Problems. /Advances in Neural Information Processing Systems (NIPS)/. [http://papers.nips.cc/paper/4986-convex-relaxations-for-permutation-problems.pdf \[pdf\]] [http://arxiv.org/pdf/1306.4805v2.pdf \[Longer version in preprint\]]
+- (2015) A. Freno, M. Saveski, R. Jenatton, C. Archambeau. One-Pass Ranking Models for Low-Latency Product Recommendations. /SIGKDD Conference on Knowledge Discovery and Data Mining/. [ \[to appear\]]
+
+- (2013) F. Fogel, R. Jenatton, F. Bach, A. d'Aspremont. Convex Relaxations for Permutation Problems. /Advances in Neural Information Processing Systems (NIPS)/. [http://papers.nips.cc/paper/4986-convex-relaxations-for-permutation-problems.pdf \[pdf\]] [http://arxiv.org/pdf/1306.4805v2.pdf \[longer version in preprint\]]
 
 - (2012) R. Jenatton\*, N. Le Roux\*, A. Bordes, G. Obozinski (\*Contributed equally). A latent factor model for highly multi-relational data. /Advances in Neural Information Processing Systems (NIPS)/. [http://papers.nips.cc/paper/4744-a-latent-factor-model-for-highly-multi-relational-data.pdf \[pdf\]] [https://www.hds.utc.fr/everest/doku.php?id=en:lfmnips12 \[code\]]
 
