@@ -33,6 +33,8 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 *Journal:*
 
+- (2015) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /IEEE Transactions on Information Theory, 61(6):3469-3486/. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7088631&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7088631 \[ieee\]][http://arxiv.org/pdf/1312.3790v1.pdf \[pdf on arXiv\]]
+
 - (2012) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, E. Eger, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity. /SIAM Journal on Imaging Sciences, 5(3):835-856/, 2012. [http://hal.inria.fr/inria-00589785/ \[pdf\]]
 
 - (2011) R. Jenatton\*, J. Mairal\*, G. Obozinski, F. Bach (\*Contributed equally). Proximal Methods for Hierarchical Sparse Coding. /Journal of Machine Learning Research, 12(Jul):2297-2334/. [http://www.jmlr.org/papers/volume12/jenatton11a/jenatton11a.pdf \[pdf\]]
@@ -68,8 +70,6 @@ My research interests revolve around machine learning, statistics, (convex) opti
 - (2014) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /Technical report, HAL 01025503/, 2014. [http://hal.archives-ouvertes.fr/docs/01/02/55/03/PDF/sparse_and_spurious_hal.pdf \[pdf\]]
 
 - (2014) M. Seibert, M. Kleinsteuber, R. Gribonval, R. Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
-
-- (2013) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /Technical report, arXiv:1312.3790/, 2014. [http://arxiv.org/pdf/1312.3790v1.pdf \[pdf\]]
 
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
