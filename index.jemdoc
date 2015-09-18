@@ -33,6 +33,8 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 *Journal:*
 
+- (2015) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /IEEE Transactions on Information Theory, To appear/. [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7222421&sortType=desc_p_Publication_Year&searchWithin=%22Authors%22:.QT.Gribonval,%20R..QT. \[ieee\]][http://arxiv.org/abs/1407.5155 \[pdf on arXiv\]]
+
 - (2015) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /IEEE Transactions on Information Theory, 61(6):3469-3486/. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7088631&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7088631 \[ieee\]][http://arxiv.org/pdf/1312.3790v1.pdf \[pdf on arXiv\]]
 
 - (2012) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, E. Eger, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity. /SIAM Journal on Imaging Sciences, 5(3):835-856/, 2012. [http://hal.inria.fr/inria-00589785/ \[pdf\]]
@@ -66,8 +68,6 @@ My research interests revolve around machine learning, statistics, (convex) opti
 - (2011) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Convex Optimization with Sparsity-Inducing Norms. In /S. Sra, S. Nowozin, S. J. Wright., editors, Optimization for Machine Learning, MIT Press/, 2011. [http://www.di.ens.fr/~fbach/opt_book.pdf \[pdf\]]
 
 *Technical reports:*
-
-- (2014) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /Technical report, HAL 01025503/, 2014. [http://hal.archives-ouvertes.fr/docs/01/02/55/03/PDF/sparse_and_spurious_hal.pdf \[pdf\]]
 
 - (2014) M. Seibert, M. Kleinsteuber, R. Gribonval, R. Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
 
