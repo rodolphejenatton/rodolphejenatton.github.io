@@ -71,6 +71,8 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 *Technical reports:*
 
+- (2016) R. Jenatton, J. Huang, C. Archambeau. Online optimization and regret guarantees for non-additive long-term constraints. /Technical report, HAL 01273728/. [https://hal.archives-ouvertes.fr/hal-01273728 \[pdf\]]
+
 - (2015) R. Jenatton, J. Huang, C. Archambeau. Adaptive Algorithms for Online Convex Optimization with Long-term Constraints. /Technical report, HAL 01247933/. [https://hal.archives-ouvertes.fr/hal-01247933 \[pdf\]]
 
 - (2014) M. Seibert, M. Kleinsteuber, R. Gribonval, R. Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
