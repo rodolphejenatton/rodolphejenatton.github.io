@@ -35,11 +35,11 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 - (2015) F. Fogel, R. Jenatton, F. Bach,  A. d'Aspremont. Convex Relaxations for Permutation Problems. /SIAM Journal on Matrix Analysis and Application, 36(4):1465-1488, 2015/. [http://www.di.ens.fr/~fbach/siam_fogel.pdf \[pdf\]]
 
-- (2015) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /IEEE Transactions on Information Theory, 61(11):6298-6319/. [https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7222421&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A18)%26pageNumber%3D5%26rowsPerPage%3D50 \[ieee\]][http://arxiv.org/abs/1407.5155 \[pdf on arXiv\]]
+- (2015) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /IEEE Transactions on Information Theory, 61(11):6298-6319/. [https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7222421&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A18)%26pageNumber%3D5%26rowsPerPage%3D50 \[ieee\]][http://arxiv.org/pdf/1407.5155v4.pdf \[pdf on arXiv\]]
 
 - (2015) R. Gribonval, R. Jenatton, F. Bach, M. Kleinsteuber and M. Seibert. Sample complexity of dictionary learning and other matrix factorizations. /IEEE Transactions on Information Theory, 61(6):3469-3486/. [http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7088631&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7088631 \[ieee\]][http://arxiv.org/pdf/1312.3790v1.pdf \[pdf on arXiv\]]
 
-- (2012) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, E. Eger, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity. /SIAM Journal on Imaging Sciences, 5(3):835-856/, 2012. [http://hal.inria.fr/inria-00589785/ \[pdf\]]
+- (2012) R. Jenatton, A. Gramfort, V. Michel, G. Obozinski, E. Eger, F. Bach and B. Thirion. Multi-scale Mining of fMRI Data with Hierarchical Structured Sparsity. /SIAM Journal on Imaging Sciences, 5(3):835-856/, 2012. [https://hal.inria.fr/inria-00589785v2/document \[pdf\]]
 
 - (2011) R. Jenatton\*, J. Mairal\*, G. Obozinski, F. Bach (\*Contributed equally). Proximal Methods for Hierarchical Sparse Coding. /Journal of Machine Learning Research, 12(Jul):2297-2334/. [http://www.jmlr.org/papers/volume12/jenatton11a/jenatton11a.pdf \[pdf\]]
 
@@ -48,6 +48,10 @@ My research interests revolve around machine learning, statistics, (convex) opti
 - (2011) R. Jenatton, J.-Y. Audibert and F. Bach. Structured Variable Selection with Sparsity-Inducing Norms. /Journal of Machine Learning Research, 12(Oct):2777-2824/. [http://www.jmlr.org/papers/volume12/jenatton11b/jenatton11b.pdf \[pdf\] ] [./software/StructuredLasso_Matlab_Package_version_1_0_RodolpheJenatton.tar \[code\]]
 
 *Conference:*
+
+- (2016) J. Huang, R. Jenatton, C. Archambeau. Online dual decomposition for performance and delivery-based distributed ad allocation. /To appear at KDD/. [ \[pdf\]]
+
+- (2016) R. Jenatton, J. Huang, C. Archambeau. Adaptive Algorithms for Online Convex Optimization with Long-term Constraints. /To appear at ICML/. [ \[pdf\]]
 
 - (2015) A. Freno, M. Saveski, R. Jenatton, C. Archambeau. One-Pass Ranking Models for Low-Latency Product Recommendations. /SIGKDD Conference on Knowledge Discovery and Data Mining/. [http://www0.cs.ucl.ac.uk/staff/c.archambeau/publ/kdd_af15.pdf \[pdf\]]
 
@@ -71,9 +75,9 @@ My research interests revolve around machine learning, statistics, (convex) opti
 
 *Technical reports:*
 
-- (2016) R. Jenatton, J. Huang, C. Archambeau. Online optimization and regret guarantees for non-additive long-term constraints. /Technical report, HAL 01273728/. [https://hal.archives-ouvertes.fr/hal-01273728 \[pdf\]]
+- (2016) R. Jenatton, J. Huang, C. Archambeau. Online optimization and regret guarantees for non-additive long-term constraints. /Technical report, arXiv:1602.05394/. [http://arxiv.org/pdf/1602.05394v1.pdf \[pdf\]]
 
-- (2015) R. Jenatton, J. Huang, C. Archambeau. Adaptive Algorithms for Online Convex Optimization with Long-term Constraints. /Technical report, HAL 01247933/. [https://hal.archives-ouvertes.fr/hal-01247933 \[pdf\]]
+- (2015) R. Jenatton, J. Huang, C. Archambeau. Adaptive Algorithms for Online Convex Optimization with Long-term Constraints. /Technical report, arXiv:1512.07422/. [http://arxiv.org/pdf/1512.07422v1.pdf \[pdf\]]
 
 - (2014) M. Seibert, M. Kleinsteuber, R. Gribonval, R. Jenatton and F. Bach. On The Sample Complexity of Sparse Dictionary Learning. /Technical report, arXiv:1403.5112/, 2014. [http://arxiv.org/pdf/1403.5112v1.pdf \[pdf\]]
 
