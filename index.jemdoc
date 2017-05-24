@@ -19,7 +19,7 @@ In 2011, I finished my Ph.D which I conducted within the [http://www.di.ens.fr/s
 I had the chance to be co-supervised by [http://www.di.ens.fr/~fbach/ Francis Bach] and [http://certis.enpc.fr/~audibert/ Jean-Yves Audibert]. 
 I then spent a great year as a postdoctoral researcher with [http://www.di.ens.fr/~aspremon/ Alexandre d'Aspremont] at [http://www.cmap.polytechnique.fr/ Ecole Polytechnique]. 
 From January 2013 until May 2014, I worked for [http://labs.criteo.com/ Criteo] where I was in charge of improving the statistical and optimization aspects of the ad prediction engine. 
-I am now a machine learning scientist at Amazon, Berlin.
+I am now a senior machine learning scientist at Amazon, Berlin.
 ~~~
 
 ~~~
@@ -48,6 +48,8 @@ My research interests revolve around machine learning, statistics, (convex) opti
 - (2011) R. Jenatton, J.-Y. Audibert and F. Bach. Structured Variable Selection with Sparsity-Inducing Norms. /Journal of Machine Learning Research, 12(Oct):2777-2824/. [http://www.jmlr.org/papers/volume12/jenatton11b/jenatton11b.pdf \[pdf\] ] [./software/StructuredLasso_Matlab_Package_version_1_0_RodolpheJenatton.tar \[code\]]
 
 *Conference:*
+
+- (2017) R. Jenatton, C. Archambeau, J. Gonzalez, M. Seeger. Bayesian Optimization with Tree-structured Dependencies. /International Conference on Machine Learning (ICML)/. (to appear)
 
 - (2016) J. Huang, R. Jenatton, C. Archambeau. Online dual decomposition for performance and delivery-based distributed ad allocation. /SIGKDD Conference on Knowledge Discovery and Data Mining/. [http://www.kdd.org/kdd2016/papers/files/adf0682-huangA.pdf \[pdf\]]
 
