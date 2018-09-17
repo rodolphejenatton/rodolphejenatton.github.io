@@ -2,7 +2,7 @@
 {}{img_left}{pic_webpage.JPG}{}{250}{250}{}
 = Rodolphe Jenatton
 
-Machine learning scientist at Amazon. 
+Senior machine learning scientist at Amazon. 
 ~~~
 
 ~~~
@@ -24,7 +24,7 @@ I am now a senior machine learning scientist at Amazon, Berlin.
 
 ~~~
 {Research interests:}
-My research interests revolve around machine learning, statistics, (convex) optimization, (structured) sparsity and their applications to image and text processing. I am also interested in dictionary learning and various unsupervised models based on latent factor representations.
+My research interests revolve around machine learning, statistics, (convex and Bayesian) optimization, (structured) sparsity and auto-ML.
 ~~~
 
 
@@ -48,6 +48,8 @@ My research interests revolve around machine learning, statistics, (convex) opti
 - (2011) R. Jenatton, J.-Y. Audibert and F. Bach. Structured Variable Selection with Sparsity-Inducing Norms. /Journal of Machine Learning Research, 12(Oct):2777-2824/. [http://www.jmlr.org/papers/volume12/jenatton11b/jenatton11b.pdf \[pdf\] ] [./software/StructuredLasso_Matlab_Package_version_1_0_RodolpheJenatton.tar \[code\]]
 
 *Conference:*
+
+- (2018) V. Perrone, R. Jenatton, M. Seeger, C. Archambeau. Scalable Hyperparameter Transfer learning. /Advances in Neural Information Processing Systems (NIPS)/. [ \[pdf to appear\]]
 
 - (2017) R. Jenatton, C. Archambeau, J. Gonzalez, M. Seeger. Bayesian Optimization with Tree-structured Dependencies. /International Conference on Machine Learning (ICML)/. [http://proceedings.mlr.press/v70/jenatton17a/jenatton17a.pdf \[pdf\]] [http://proceedings.mlr.press/v70/jenatton17a/jenatton17a-supp.pdf \[supp\]]
 
