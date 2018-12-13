@@ -49,7 +49,7 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Conference:*
 
-- (2018) V. Perrone, R. Jenatton, M. Seeger, C. Archambeau. Scalable Hyperparameter Transfer learning. /Advances in Neural Information Processing Systems (NIPS)/. [ \[pdf to appear\]]
+- (2018) V. Perrone, R. Jenatton, M. Seeger, C. Archambeau. Scalable Hyperparameter Transfer learning. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning.pdf \[pdf\]] [https://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning-supplemental.zip \[supp\]]
 
 - (2017) R. Jenatton, C. Archambeau, J. Gonzalez, M. Seeger. Bayesian Optimization with Tree-structured Dependencies. /International Conference on Machine Learning (ICML)/. [http://proceedings.mlr.press/v70/jenatton17a/jenatton17a.pdf \[pdf\]] [http://proceedings.mlr.press/v70/jenatton17a/jenatton17a-supp.pdf \[supp\]]
 
@@ -88,6 +88,9 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
 *Selected workshops/talks:*
+
+- (2018) L. Valkov, R. Jenatton, F. Winkelmolen, C. Archambeau. A simple transfer-learning extension of Hyperband. /NeurIPS Workshop on Meta-Learning (MetaLearn 2018)/.
+[http://metalearning.ml/2018/papers/metalearn2018_paper32_main.pdf \[pdf\]] [http://metalearning.ml/2018/papers/metalearn2018_paper32_supp.pdf \[supp\]]
 
 - (2017) V. Perrone, R. Jenatton, M. Seeger, C. Archambeau. Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start. /NIPS Workshop on Meta-Learning (MetaLearn 2017)/.
 [https://arxiv.org/pdf/1712.02902.pdf \[pdf\]]
