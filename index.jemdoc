@@ -50,6 +50,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Conference:*
 
+- (2019) V. Perrone, H. Shen, M. Seeger, C. Archambeau, R. Jenatton. Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning. /to appear in Advances in Neural Information Processing Systems (NeurIPS)/. [https://arxiv.org/pdf/1909.12552.pdf \[arxiv\]]
+
 - (2018) V. Perrone, R. Jenatton, M. Seeger, C. Archambeau. Scalable Hyperparameter Transfer learning. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning.pdf \[pdf\]] [https://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning-supplemental.zip \[supp\]]
 
 - (2017) R. Jenatton, C. Archambeau, J. Gonzalez, M. Seeger. Bayesian Optimization with Tree-structured Dependencies. /International Conference on Machine Learning (ICML)/. [http://proceedings.mlr.press/v70/jenatton17a/jenatton17a.pdf \[pdf\]] [http://proceedings.mlr.press/v70/jenatton17a/jenatton17a-supp.pdf \[supp\]]
@@ -79,6 +81,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2011) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Convex Optimization with Sparsity-Inducing Norms. In /S. Sra, S. Nowozin, S. J. Wright., editors, Optimization for Machine Learning, MIT Press/, 2011. [http://www.di.ens.fr/~fbach/opt_book.pdf \[pdf\]]
 
 *Technical reports:*
+
+- (2019) V. Perrone, I. Shcherbatyi, R. Jenatton, C. Archambeau, M. Seeger. Constrained Bayesian Optimization with Max-Value Entropy Search. /Technical report, arXiv:1910.07003/. [https://arxiv.org/pdf/1910.07003.pdf \[pdf\]]
 
 - (2016) R. Jenatton, J. Huang, C. Archambeau. Online optimization and regret guarantees for non-additive long-term constraints. /Technical report, arXiv:1602.05394/. [http://arxiv.org/pdf/1602.05394v1.pdf \[pdf\]]
 
