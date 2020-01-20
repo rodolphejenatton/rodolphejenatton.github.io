@@ -82,6 +82,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Technical reports:*
 
+- (2020) L. Tran, B. S. Veeling, K. Roth, J. Swiatkowski, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, S. Nowozin, R. Jenatton. Hydra: Preserving Ensemble Diversity for Model Distillation. /Technical report, arXiv:2001.04694/. [https://arxiv.org/pdf/2001.04694.pdf \[pdf\]]
+
 - (2019) V. Perrone, I. Shcherbatyi, R. Jenatton, C. Archambeau, M. Seeger. Constrained Bayesian Optimization with Max-Value Entropy Search. /Technical report, arXiv:1910.07003/. [https://arxiv.org/pdf/1910.07003.pdf \[pdf\]]
 
 - (2016) R. Jenatton, J. Huang, C. Archambeau. Online optimization and regret guarantees for non-additive long-term constraints. /Technical report, arXiv:1602.05394/. [http://arxiv.org/pdf/1602.05394v1.pdf \[pdf\]]
@@ -93,6 +95,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
 *Selected workshops/talks:*
+
+- (2019) J. Świątkowski, K. Roth, B. S. Veeling, L. Tran, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks. 2nd Symposium on Advances in Approximate Bayesian Inference, 2019 (best student award) [https://openreview.net/pdf?id=SJezFk2VYH \[pdf\]]  
 
 - (2018) L. Valkov, R. Jenatton, F. Winkelmolen, C. Archambeau. A simple transfer-learning extension of Hyperband. /NeurIPS Workshop on Meta-Learning (MetaLearn 2018)/.
 [http://metalearning.ml/2018/papers/metalearn2018_paper32_main.pdf \[pdf\]] [http://metalearning.ml/2018/papers/metalearn2018_paper32_supp.pdf \[supp\]]
