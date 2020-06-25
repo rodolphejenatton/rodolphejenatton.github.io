@@ -87,6 +87,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Technical reports:*
 
+- (2020) F. Wenzel, J. Snoek, D. Tran, R. Jenatton. Hyperparameter Ensembles for Robustness and Uncertainty Quantification. /Technical report, arXiv:2006.13570/. [https://arxiv.org/pdf/2006.13570.pdf \[pdf\]]
+
 - (2020) L. Carratino, M. Cissé, R. Jenatton, J.-P. Vert . On Mixup Regularization. /Technical report, arXiv:2006.06049/. [https://arxiv.org/pdf/2006.06049.pdf \[pdf\]]
 
 - (2020) L. Tran, B. S. Veeling, K. Roth, J. Swiatkowski, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, S. Nowozin, R. Jenatton. Hydra: Preserving Ensemble Diversity for Model Distillation. /Technical report, arXiv:2001.04694/. [https://arxiv.org/pdf/2001.04694.pdf \[pdf\]]
