@@ -50,12 +50,14 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Conference:*
 
-- (2020) F. Wenzel, K. Roth, B. S. Veeling, J. Świątkowski, L. Tran, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. How Good is the Bayes Posterior in Deep Neural Networks Really? /International Conference on Machine Learning (ICML)-to appear/. [https://arxiv.org/pdf/2002.02405.pdf \[pdf\]] [https://github.com/google-research/google-research/tree/master/cold_posterior_bnn \[code\]] 
+- (2020) F. Wenzel, J. Snoek, D. Tran, R. Jenatton. Hyperparameter Ensembles for Robustness and Uncertainty Quantification. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://papers.nips.cc/paper/2020/file/481fbfa59da2581098e841b7afc122f1-Paper.pdf \[pdf\]] [https://github.com/google/uncertainty-baselines/tree/master/baselines/cifar \[code\]]
 
-- (2020) J. Świątkowski, K. Roth, B. S. Veeling, L. Tran, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks. /International Conference on Machine Learning (ICML)-to appear/. [https://arxiv.org/pdf/2002.02655.pdf \[pdf\]] 
+- (2020) F. Wenzel, K. Roth, B. S. Veeling, J. Świątkowski, L. Tran, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. How Good is the Bayes Posterior in Deep Neural Networks Really? /International Conference on Machine Learning (ICML)/. [https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf \[pdf\]] [https://github.com/google-research/google-research/tree/master/cold_posterior_bnn \[code\]] 
+
+- (2020) J. Świątkowski, K. Roth, B. S. Veeling, L. Tran, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks. /International Conference on Machine Learning (ICML)/. [https://proceedings.icml.cc/static/paper_files/icml/2020/3662-Paper.pdf \[pdf\]] 
 
 
-- (2019) V. Perrone, H. Shen, M. Seeger, C. Archambeau, R. Jenatton. Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning. /to appear in Advances in Neural Information Processing Systems (NeurIPS)/. [https://arxiv.org/pdf/1909.12552.pdf \[arxiv\]]
+- (2019) V. Perrone, H. Shen, M. Seeger, C. Archambeau, R. Jenatton. Learning search spaces for Bayesian optimization: Another view of hyperparameter transfer learning. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://arxiv.org/pdf/1909.12552.pdf \[arxiv\]]
 
 - (2018) V. Perrone, R. Jenatton, M. Seeger, C. Archambeau. Scalable Hyperparameter Transfer learning. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning.pdf \[pdf\]] [https://papers.nips.cc/paper/7917-scalable-hyperparameter-transfer-learning-supplemental.zip \[supp\]]
 
@@ -87,7 +89,7 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Technical reports:*
 
-- (2020) F. Wenzel, J. Snoek, D. Tran, R. Jenatton. Hyperparameter Ensembles for Robustness and Uncertainty Quantification. /Technical report, arXiv:2006.13570/. [https://arxiv.org/pdf/2006.13570.pdf \[pdf\]]
+- (2020) M. Havasi, R. Jenatton, S. Fort, J.Z. Liu, J. Snoek, B. Lakshminarayanan, A.M. Dai, D. Tran. Training independent subnetworks for robust prediction. /Technical report, arXiv:2010.06610/. [https://arxiv.org/pdf/2010.06610.pdf \[pdf\]]
 
 - (2020) L. Carratino, M. Cissé, R. Jenatton, J.-P. Vert . On Mixup Regularization. /Technical report, arXiv:2006.06049/. [https://arxiv.org/pdf/2006.06049.pdf \[pdf\]]
 
@@ -104,6 +106,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
 *Selected workshops/talks:*
+
+- (2020) F. Wenzel, J. Snoek, D. Tran, R. Jenatton. Hyperparameter Ensembles for Robustness and Uncertainty Quantification. /auto-ml seminars./ [https://automl-seminars.github.io \[website\]] [./other/talk_automl_seminar_10082020.pdf  \[slides\]]
 
 - (2019) J. Świątkowski, K. Roth, B. S. Veeling, L. Tran, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. The k-tied Normal Distribution: A Compact Parameterization of Gaussian Mean Field Posteriors in Bayesian Neural Networks. 2nd Symposium on Advances in Approximate Bayesian Inference, 2019 (best student award) [https://openreview.net/pdf?id=SJezFk2VYH \[pdf\]]  
 
