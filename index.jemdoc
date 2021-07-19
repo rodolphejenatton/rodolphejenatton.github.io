@@ -50,6 +50,12 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Conference:*
 
+- (2021) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. Correlated Input-Dependent Label Noise in Large-Scale Image Classification. /Conference on Computer Vision and Pattern Recognition (CVPR)/. [https://openaccess.thecvf.com/content/CVPR2021/papers/Collier_Correlated_Input-Dependent_Label_Noise_in_Large-Scale_Image_Classification_CVPR_2021_paper.pdf \[pdf\]]
+
+- (2021) M. Havasi, R. Jenatton, S. Fort, J.Z. Liu, J. Snoek, B. Lakshminarayanan, A.M. Dai, D. Tran. Training independent subnetworks for robust prediction. /International Conference on Learning Representations (ICLR)/. [https://openreview.net/pdf?id=OGg9XnKxFAH \[pdf\]]
+
+- (2021) V. Perrone, H. Shen, A. Zolic, I. Shcherbatyi, A. Ahmed, T. Bansal, M. Donini, F. Winkelmolen, R. Jenatton, J.B. Faddoul, B. Pogorzelska, M. Miladinovic, K. Kenthapadi, M. Seeger, C. Archambeau. Amazon SageMaker Automatic Model Tuning: Scalable Black-box Optimization. /SIGKDD Conference on Knowledge Discovery and Data Mining/  [https://arxiv.org/pdf/2012.08489.pdf \[pdf\]]
+
 - (2020) F. Wenzel, J. Snoek, D. Tran, R. Jenatton. Hyperparameter Ensembles for Robustness and Uncertainty Quantification. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://papers.nips.cc/paper/2020/file/481fbfa59da2581098e841b7afc122f1-Paper.pdf \[pdf\]] [https://github.com/google/uncertainty-baselines/tree/master/baselines/cifar \[code\]]
 
 - (2020) F. Wenzel, K. Roth, B. S. Veeling, J. Świątkowski, L. Tran, J. Snoek, S. Mandt, T. Salimans, R. Jenatton, S. Nowozin. How Good is the Bayes Posterior in Deep Neural Networks Really? /International Conference on Machine Learning (ICML)/. [https://proceedings.icml.cc/static/paper_files/icml/2020/3581-Paper.pdf \[pdf\]] [https://github.com/google-research/google-research/tree/master/cold_posterior_bnn \[code\]] 
@@ -91,12 +97,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 - (2020) P. Das, V. Perrone, N. Ivkin, T. Bansal, Z. Karnin, H. Shen, I. Shcherbatyi, Y. Elor, W. Wu, A. Zolic, T. Lienart, A. Tang, A. Ahmed, J.B. Faddoul, R. Jenatton, F. Winkelmolen, P. Gautier, L. Dirac, A. Perunicic, M. Miladinovic, G. Zappella, C. Archambeau, M. Seeger, B. Dutt, L. Rouesnel. Amazon SageMaker Autopilot: a white box AutoML solution at scale. /Technical report, arXiv:2012.08483/. [https://arxiv.org/pdf/2012.08483.pdf \[pdf\]]
 
-
-- (2020) V. Perrone, H. Shen, A. Zolic, I. Shcherbatyi, A. Ahmed, T. Bansal, M. Donini, F. Winkelmolen, R. Jenatton, J.B. Faddoul, B. Pogorzelska, M. Miladinovic, K. Kenthapadi, M. Seeger, C. Archambeau. Amazon SageMaker Automatic Model Tuning: Scalable Black-box Optimization. /Technical report, arXiv:2012.08489/. [https://arxiv.org/pdf/2012.08489.pdf \[pdf\]]
-
 - (2020) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. A Simple Probabilistic Method for Deep Classification under Input-Dependent Label Noise. /Technical report, arXiv:2003.06778/. [https://arxiv.org/pdf/2003.06778.pdf \[pdf\]]
 
-- (2020) M. Havasi, R. Jenatton, S. Fort, J.Z. Liu, J. Snoek, B. Lakshminarayanan, A.M. Dai, D. Tran. Training independent subnetworks for robust prediction. /Technical report, arXiv:2010.06610/. [https://arxiv.org/pdf/2010.06610.pdf \[pdf\]]
 
 - (2020) L. Carratino, M. Cissé, R. Jenatton, J.-P. Vert . On Mixup Regularization. /Technical report, arXiv:2006.06049/. [https://arxiv.org/pdf/2006.06049.pdf \[pdf\]]
 
