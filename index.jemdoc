@@ -50,6 +50,12 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Conference:*
 
+- (2022) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. /International Conference on Machine Learning (ICML)/. [https://arxiv.org/pdf/2202.09244.pdf \[pdf\]]
+
+- (2022) S. Ariafar, J. Gilmer, Z. Nado, J. Snoek, R. Jenatton, G. E. Dahl. Predicting the utility of search spaces for black-box optimization: a simple, budget-aware approach. /International Conference on Artificial Intelligence and Statistics (AISTATS)/. [https://proceedings.mlr.press/v151/ariafar22a/ariafar22a.pdf \[pdf\]]
+
+- (2021) C. Riquelme, J. Puigcerver, B. Mustafa, M. Neumann, R. Jenatton, A. Susano Pinto, D. Keysers, N. Houlsby. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://openreview.net/pdf?id=FrIDgjDOH1u \[pdf\]] [https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html \[blogpost\]] [https://github.com/google-research/vmoe \[code\]]
+
 - (2021) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. Correlated Input-Dependent Label Noise in Large-Scale Image Classification. /Conference on Computer Vision and Pattern Recognition (CVPR)/. [https://openaccess.thecvf.com/content/CVPR2021/papers/Collier_Correlated_Input-Dependent_Label_Noise_in_Large-Scale_Image_Classification_CVPR_2021_paper.pdf \[pdf\]]
 
 - (2021) M. Havasi, R. Jenatton, S. Fort, J.Z. Liu, J. Snoek, B. Lakshminarayanan, A.M. Dai, D. Tran. Training independent subnetworks for robust prediction. /International Conference on Learning Representations (ICLR)/. [https://openreview.net/pdf?id=OGg9XnKxFAH \[pdf\]]
@@ -94,6 +100,10 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2011) F. Bach, R. Jenatton, J. Mairal and G. Obozinski. Convex Optimization with Sparsity-Inducing Norms. In /S. Sra, S. Nowozin, S. J. Wright., editors, Optimization for Machine Learning, MIT Press/, 2011. [http://www.di.ens.fr/~fbach/opt_book.pdf \[pdf\]]
 
 *Technical reports:*
+
+- (2022) Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts.B. Mustafa, C. Riquelme, J. Puigcerver, R. Jenatton, N. Houlsby. /Technical report, arXiv:2206.02770/. [https://arxiv.org/pdf/2206.02770.pdf \[pdf\]] [https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html \[blogpost\]]
+
+- (2021) J. Urquhart Allingham, F. Wenzel, Z. Mariet, B. Mustafa, J. Puigcerver, N. Houlsby, G. Jerfel, V. Fortuin, B. Lakshminarayanan, J. Snoek, D. Tran, C. Riquelme, R. Jenatton. Sparse MoEs meet Efficient Ensembles. /Technical report, arXiv:2110.03360/. [https://arxiv.org/pdf/2110.03360.pdf \[pdf\]]
 
 - (2020) P. Das, V. Perrone, N. Ivkin, T. Bansal, Z. Karnin, H. Shen, I. Shcherbatyi, Y. Elor, W. Wu, A. Zolic, T. Lienart, A. Tang, A. Ahmed, J.B. Faddoul, R. Jenatton, F. Winkelmolen, P. Gautier, L. Dirac, A. Perunicic, M. Miladinovic, G. Zappella, C. Archambeau, M. Seeger, B. Dutt, L. Rouesnel. Amazon SageMaker Autopilot: a white box AutoML solution at scale. /Technical report, arXiv:2012.08483/. [https://arxiv.org/pdf/2012.08483.pdf \[pdf\]]
 
