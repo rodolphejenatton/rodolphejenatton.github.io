@@ -134,10 +134,10 @@ def standardconf():
   [windowtitle]
   # used in header for window title.
   <title>|</title>
-  [fwtitlestart]
-  <div id="fwtitle">
-  [fwtitleend]
-  </div>
+  #[fwtitlestart]
+  #<div id="fwtitle">
+  #[fwtitleend]
+  #</div>
   
   [doctitle]
   # used at top of document.
@@ -1297,10 +1297,10 @@ def procfile(f):
   if f.analytics:
     hb(f.outf, f.conf['analytics'], f.analytics)
 
-  if fwtitle:
-    out(f.outf, f.conf['fwtitlestart'])
-    inserttitle(f, t)
-    out(f.outf, f.conf['fwtitleend'])
+  #if fwtitle:
+  #  out(f.outf, f.conf['fwtitlestart'])
+  #  inserttitle(f, t)
+  #  out(f.outf, f.conf['fwtitleend'])
 
   if menu:
     out(f.outf, f.conf['menustart'])
@@ -1309,8 +1309,8 @@ def procfile(f):
   else:
     out(f.outf, f.conf['nomenu'])
 
-  if not fwtitle:
-    inserttitle(f, t)
+  #if not fwtitle:
+  #  inserttitle(f, t)
 
   infoblock = False
   imgblock = False
