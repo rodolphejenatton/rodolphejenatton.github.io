@@ -34,6 +34,12 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Journal:*
 
+- (2022) L. Carratino, M. Cissé, R. Jenatton, J.-P. Vert. On Mixup Regularization. /Journal of Machine Learning Research, 23 (2022) 1-31/. [https://www.jmlr.org/papers/volume23/20-1385/20-1385.pdf \[pdf\]] [https://github.com/google/uncertainty-baselines \[code\]]
+
+- (2022) J. Urquhart Allingham, F. Wenzel, Z. Mariet, B. Mustafa, J. Puigcerver, N. Houlsby, G. Jerfel, V. Fortuin, B. Lakshminarayanan, J. Snoek, D. Tran, C. Riquelme, R. Jenatton. Sparse MoEs meet Efficient Ensembles. /Transactions on Machine Learning Research/. [https://openreview.net/pdf?id=i0ZM36d2qU \[pdf\]] [https://github.com/google-research/vmoe \[code\]]
+
+- (2022) V. Fortuin, M. Collier, F. Wenzel, J. Allingham, J. Liu, D. Tran, B. Lakshminarayanan, J. Berent, R. Jenatton, E. Kokiopoulou. Deep Classifiers with Label Noise Modeling and Distance Awareness. /Transactions on Machine Learning Research/. [https://openreview.net/pdf?id=Id7hTt78FV \[pdf\]] [https://github.com/google/uncertainty-baselines \[code\]]
+
 - (2015) F. Fogel, R. Jenatton, F. Bach,  A. d'Aspremont. Convex Relaxations for Permutation Problems. /SIAM Journal on Matrix Analysis and Application, 36(4):1465-1488, 2015/. [http://www.di.ens.fr/~fbach/siam_fogel.pdf \[pdf\]]
 
 - (2015) R. Gribonval, R. Jenatton, F. Bach. Sparse and spurious: dictionary learning with noise and outliers. /IEEE Transactions on Information Theory, 61(11):6298-6319/. [https://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7222421&sortType%3Dasc_p_Sequence%26filter%3DAND(p_Publication_Number%3A18)%26pageNumber%3D5%26rowsPerPage%3D50 \[ieee\]][http://arxiv.org/pdf/1407.5155v4.pdf \[pdf on arXiv\]]
@@ -49,6 +55,16 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2011) R. Jenatton, J.-Y. Audibert and F. Bach. Structured Variable Selection with Sparsity-Inducing Norms. /Journal of Machine Learning Research, 12(Oct):2777-2824/. [http://www.jmlr.org/papers/volume12/jenatton11b/jenatton11b.pdf \[pdf\] ] [./software/StructuredLasso_Matlab_Package_version_1_0_RodolpheJenatton.tar \[code\]]
 
 *Conference:*
+
+- (2023) G. Ortiz-Jimenez, M. Collier, A. Nawalgaria, A. D'Amour, J. Berent, R. Jenatton, E. Kokiopoulou. When does Privileged information Explain Away Label Noise? /International Conference on Machine Learning (ICML)/. [https://openreview.net/pdf?id=CnHxxjqkMi \[pdf\]]
+
+- (2023) M. Dehghani et al [https://proceedings.mlr.press/v202/dehghani23a.html (full list of authors)]. Scaling Vision Transformers to 22 Billion Parameters. /International Conference on Machine Learning (ICML)/. [https://openreview.net/pdf?id=Lhyy8H75KA \[pdf\]] [https://blog.research.google/2023/03/scaling-vision-transformers-to-22.html \[blogpost\]]
+
+- (2023) M. Collier\*, R. Jenatton\*, B. Mustafa, N. Houlsby, J. Berent, E. Kokiopoulou (\*Contributed equally). Massively Scaling Heteroscedastic Classifiers. /International Conference on Learning Representations (ICLR)/. [https://openreview.net/pdf?id=sIoED-yPK9l \[pdf\]]
+
+- (2022) J. Puigcerver, R. Jenatton, C. Riquelme, P. Awasthi, S. Bhojanapalli. On the Adversarial Robustness of Mixture of Experts. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://proceedings.neurips.cc/paper_files/paper/2022/file/3effb91593c4fb42b1da1528328eff49-Paper-Conference.pdf \[pdf\]]
+
+- (2022) B. Mustafa, C. Riquelme, J. Puigcerver, R. Jenatton, N. Houlsby. Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://proceedings.neurips.cc/paper_files/paper/2022/file/3e67e84abf900bb2c7cbd5759bfce62d-Paper-Conference.pdf \[pdf\]] [https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html \[blogpost\]]
 
 - (2022) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. Transfer and Marginalize: Explaining Away Label Noise with Privileged Information. /International Conference on Machine Learning (ICML)/. [https://arxiv.org/pdf/2202.09244.pdf \[pdf\]]
 
@@ -101,16 +117,9 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Technical reports:*
 
-- (2022) Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts.B. Mustafa, C. Riquelme, J. Puigcerver, R. Jenatton, N. Houlsby. /Technical report, arXiv:2206.02770/. [https://arxiv.org/pdf/2206.02770.pdf \[pdf\]] [https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html \[blogpost\]]
-
-- (2021) J. Urquhart Allingham, F. Wenzel, Z. Mariet, B. Mustafa, J. Puigcerver, N. Houlsby, G. Jerfel, V. Fortuin, B. Lakshminarayanan, J. Snoek, D. Tran, C. Riquelme, R. Jenatton. Sparse MoEs meet Efficient Ensembles. /Technical report, arXiv:2110.03360/. [https://arxiv.org/pdf/2110.03360.pdf \[pdf\]]
-
 - (2020) P. Das, V. Perrone, N. Ivkin, T. Bansal, Z. Karnin, H. Shen, I. Shcherbatyi, Y. Elor, W. Wu, A. Zolic, T. Lienart, A. Tang, A. Ahmed, J.B. Faddoul, R. Jenatton, F. Winkelmolen, P. Gautier, L. Dirac, A. Perunicic, M. Miladinovic, G. Zappella, C. Archambeau, M. Seeger, B. Dutt, L. Rouesnel. Amazon SageMaker Autopilot: a white box AutoML solution at scale. /Technical report, arXiv:2012.08483/. [https://arxiv.org/pdf/2012.08483.pdf \[pdf\]]
 
 - (2020) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. A Simple Probabilistic Method for Deep Classification under Input-Dependent Label Noise. /Technical report, arXiv:2003.06778/. [https://arxiv.org/pdf/2003.06778.pdf \[pdf\]]
-
-
-- (2020) L. Carratino, M. Cissé, R. Jenatton, J.-P. Vert . On Mixup Regularization. /Technical report, arXiv:2006.06049/. [https://arxiv.org/pdf/2006.06049.pdf \[pdf\]]
 
 - (2020) L. Tran, B. S. Veeling, K. Roth, J. Swiatkowski, J. V. Dillon, J. Snoek, S. Mandt, T. Salimans, S. Nowozin, R. Jenatton. Hydra: Preserving Ensemble Diversity for Model Distillation. /Technical report, arXiv:2001.04694/. [https://arxiv.org/pdf/2001.04694.pdf \[pdf\]]
 
@@ -156,6 +165,5 @@ My research interests revolve around machine learning, statistics, (convex and B
 Winner of the best 2012 Applied Mathematics PhD thesis prize, Fondation Hadamard 2012 [http://www.fondation-hadamard.fr/en/page/668 \[more details\]] 
 : {} Runner-up for the best 2012 Machine Learning PhD thesis, Association Française pour l’Intelligence Artiﬁcielle 2012 [http://www.afia.asso.fr/tiki-index.php?page=Prix+de+Th%C3%A8se+en+Intelligence+Artificielle \[more details\]]
 ~~~
-
 
 
