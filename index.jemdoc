@@ -2,7 +2,7 @@
 {}{img_left}{pic_webpage_new.JPG}{}{250}{180}{}
 = Rodolphe Jenatton
 
-Senior research scientist at Google Brain, Berlin. 
+Senior research scientist at Google DeepMind, Berlin. 
 ~~~
 
 ~~~
@@ -26,6 +26,12 @@ I am now a senior research scientist in the Berlin Google Brain team.
 ~~~
 {Research interests:}
 My research interests revolve around machine learning, statistics, (convex and Bayesian) optimization, (structured) sparsity, auto-ML and the uncertainty modelling in neural networks.
+~~~
+
+
+~~~
+{Recent reviewing activity:}
+Area chair for ICML 2021, 2022; NeurIPS 2020, 2023; ICLR 2021, 2022, 2023, 2024.
 ~~~
 
 
@@ -55,6 +61,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2011) R. Jenatton, J.-Y. Audibert and F. Bach. Structured Variable Selection with Sparsity-Inducing Norms. /Journal of Machine Learning Research, 12(Oct):2777-2824/. [http://www.jmlr.org/papers/volume12/jenatton11b/jenatton11b.pdf \[pdf\] ] [./software/StructuredLasso_Matlab_Package_version_1_0_RodolpheJenatton.tar \[code\]]
 
 *Conference:*
+
+- (2023) J. Kossen, M. Collier, B. Mustafa, X. Wang, X. Zhai, L. Beyer, A. Steiner, J. Berent, R. Jenatton, E. Kokiopoulou. Three Towers: Flexible Contrastive Learning with Pretrained Image Models. /Advances in Neural Information Processing Systems (NeurIPS)/. [https://arxiv.org/pdf/2305.16999.pdf \[pdf\]] 
 
 - (2023) G. Ortiz-Jimenez, M. Collier, A. Nawalgaria, A. D'Amour, J. Berent, R. Jenatton, E. Kokiopoulou. When does Privileged information Explain Away Label Noise? /International Conference on Machine Learning (ICML)/. [https://openreview.net/pdf?id=CnHxxjqkMi \[pdf\]]
 
@@ -117,6 +125,9 @@ My research interests revolve around machine learning, statistics, (convex and B
 
 *Technical reports:*
 
+- (2023) K. Wang, G. Ortiz-Jimenez, R. Jenatton, M. Collier, E. Kokiopoulou, P. Frossard. Pi-DUAL: Using Privileged Information to Distinguish Clean from Noisy Labels. /Technical report, arXiv:2310.06600/. [https://arxiv.org/pdf/2310.06600.pdf \[pdf\]]
+
+
 - (2020) P. Das, V. Perrone, N. Ivkin, T. Bansal, Z. Karnin, H. Shen, I. Shcherbatyi, Y. Elor, W. Wu, A. Zolic, T. Lienart, A. Tang, A. Ahmed, J.B. Faddoul, R. Jenatton, F. Winkelmolen, P. Gautier, L. Dirac, A. Perunicic, M. Miladinovic, G. Zappella, C. Archambeau, M. Seeger, B. Dutt, L. Rouesnel. Amazon SageMaker Autopilot: a white box AutoML solution at scale. /Technical report, arXiv:2012.08483/. [https://arxiv.org/pdf/2012.08483.pdf \[pdf\]]
 
 - (2020) M. Collier, B. Mustafa, E. Kokiopoulou, R. Jenatton, J. Berent. A Simple Probabilistic Method for Deep Classification under Input-Dependent Label Noise. /Technical report, arXiv:2003.06778/. [https://arxiv.org/pdf/2003.06778.pdf \[pdf\]]
@@ -134,6 +145,8 @@ My research interests revolve around machine learning, statistics, (convex and B
 - (2012) R. Jenatton, R. Gribonval and F. Bach. Local stability and robustness of sparse dictionary learning in the presence of noise. /Technical report, HAL 00737152/. [http://hal.inria.fr/docs/00/73/71/52/PDF/localDL_HAL.pdf \[pdf\]]
 
 *Selected workshops/talks:*
+
+- (2023) J. Urquhart Allingham, F. Wenzel, Z. Mariet, B. Mustafa, J. Puigcerver, N. Houlsby, G. Jerfel, V. Fortuin, B. Lakshminarayanan, J. Snoek, D. Tran, C. Riquelme, R. Jenatton. Sparse MoEs meet Efficient Ensembles. /Amazon StatML Workshop/. [./other/sparse_moes_meet_efficient_ensembles_aws_03282023.pdf \[slides\]]
 
 - (2020) F. Wenzel, J. Snoek, D. Tran, R. Jenatton. Hyperparameter Ensembles for Robustness and Uncertainty Quantification. /auto-ml seminars./ [https://automl-seminars.github.io \[website\]] [./other/talk_automl_seminar_10082020.pdf  \[slides\]]
 
